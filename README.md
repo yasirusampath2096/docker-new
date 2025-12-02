@@ -1,4 +1,4 @@
-Here is your **final README.md** — clean, simple, and ready to **copy–paste** into your GitHub repository.
+
 
 ---
 
@@ -120,8 +120,8 @@ Create the following secrets:
 ## Test Image from Docker Hub
 
 ```
-docker pull YOUR_DOCKER_USERNAME/c-docker-app:latest
-docker run YOUR_DOCKER_USERNAME/c-docker-app:latest
+docker pull YOUR_DOCKER_USERNAME/c-app:latest
+docker run YOUR_DOCKER_USERNAME/c-app:latest
 ```
 
 Expected output:
@@ -132,13 +132,7 @@ Hello from C in Docker!
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-If you want, I can also create:
 
 * ZIP file with all project files
 * Sinhala README.md
