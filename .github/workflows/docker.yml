@@ -15,7 +15,7 @@ jobs:
       - name: Login to Docker Hub
         uses: docker/login-action@v2
         with:
-          username: yasiru1ss
+          username: yasiru1
           password: yasirr96S12
 
       - name: Build Docker image
