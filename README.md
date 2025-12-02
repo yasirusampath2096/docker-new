@@ -134,8 +134,4 @@ Hello from C in Docker!
 
 
 
-* ZIP file with all project files
-* Sinhala README.md
-* PNG CI/CD diagram
 
-Just tell me!
